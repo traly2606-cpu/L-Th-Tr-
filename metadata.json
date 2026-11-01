@@ -1,0 +1,8 @@
+{
+  "name": "Remix MINDGUARD - Trợ lý nhận diện thao túng tâm lý mạng",
+  "description": "Trợ lý hỗ trợ học sinh THPT Việt Nam nhận diện và ứng phó với các hành vi thao túng tâm lý, bắt nạt và đe dọa trên không gian mạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
